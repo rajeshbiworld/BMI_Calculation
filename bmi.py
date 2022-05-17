@@ -41,7 +41,6 @@ bmi_output = BMICalculator(survey_data)
 bmi_output.add_bmi()
 bmi_output.add_bmi_category()
 bmi_output.add_health_risk()
-bmi_output.pandas_df
-#print(bmi_output.pandas_df)
 
-#print(bmi_output.pandas_df)
+
+print(bmi_output.pandas_df)
